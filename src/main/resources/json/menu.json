@@ -1,0 +1,46 @@
+[
+  {
+    "text": "文件",
+    "action": "",
+    "icon": "",
+    "children": [
+      {
+        "text": "新建",
+        "action": "#creatFile",
+        "icon": "",
+        "children": []
+      },
+      {
+        "text": "打开",
+        "action": "#open",
+        "icon": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "text": "编辑",
+    "action": "",
+    "icon": "",
+    "children": [
+      {
+        "text": "删除",
+        "action": "#del",
+        "icon": "",
+        "children": []
+      },
+      {
+        "text": "清空",
+        "action": "#clear",
+        "icon": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "text": "主题",
+    "action": "#theme",
+    "icon": "",
+    "children": []
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "global": {
+    "title": "DEMO",
+    "icon": "icon.png"
+  },
+  "username": "admin",
+  "password": "admin"
+}
